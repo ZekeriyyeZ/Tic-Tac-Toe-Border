@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    color: red;
+}
+
+table {
+    margin:auto;
+}
+
+td{
+    width: 111px;
+    height: 111px;
+}
+.v {
+	border-left: 1.5px solid red;
+	border-right: 1.5px solid red;
+}
+
+.h {
+    border-top: 1.5px solid red;
+    border-bottom: 1.5px solid red;
+}
